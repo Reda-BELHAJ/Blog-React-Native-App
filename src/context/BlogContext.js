@@ -20,6 +20,7 @@ const blogReducer = (state, action) => {
           content: action.payload.content,
         },
       ];
+      
     case 'get_allblogposts':
       return action.payload;
 
