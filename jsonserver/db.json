@@ -1,0 +1,19 @@
+{
+  "blogPosts": [
+    {
+      "title": "Reda's First Blog",
+      "content": "Sup",
+      "id": 1
+    },
+    {
+      "title": "Reda's Second Blog",
+      "content": "Suuuuup",
+      "id": 2
+    },
+    {
+      "title": "MJ the GOAT",
+      "content": "Lol",
+      "id": 3
+    }
+  ]
+}
